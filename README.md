@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <!
+<img src="img/cafe2.jpg" alt="">
 **OlgaKruk1983/OlgaKruk1983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
